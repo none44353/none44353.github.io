@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Ying Wang 王颖 # the website title (if blank, full name will be used instead)
+first_name: Ying
+middle_name: 
+last_name: Wang
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -187,11 +187,20 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - pages/about_einstein.md
+  - pages/blog.md
+  - pages/publications.md
+  - pages/projects.md
+  - pages/repositories.md
+  - pages/cv.md
+  - pages/teaching.md
+  - pages/people.md
+  - pages/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
+  - news/announcement_*.md
 keep_files:
   - CNAME
   - .nojekyll
