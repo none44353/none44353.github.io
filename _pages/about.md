@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>Email:</a> wying2000@pku.edu.cn
+subtitle: <a>Email:</a> wying2000[at]pku.edu.cn
 
 profile:
   align: right
