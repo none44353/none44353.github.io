@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a second-year Ph.D. student at [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn), School of Computer Science, Peking University. I am fortunate enough to be advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and [Prof. Xiaotie Deng](https://dblp.org/pid/d/XiaotieDeng.html). I received my bachelor degree in Computer Science from Turing Class, Peking University. 
+I am currently a third-year Ph.D. student at [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn), School of Computer Science, Peking University. I am fortunate enough to be advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and [Prof. Xiaotie Deng](https://dblp.org/pid/d/XiaotieDeng.html). I received my bachelor degree in Computer Science from Turing Class, Peking University. 
 
 My research interests lie in the intersection of theoretical computer science and the areas of economics, including information aggregation, mechanism design, and social choice theory.
